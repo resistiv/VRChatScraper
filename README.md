@@ -14,9 +14,9 @@ This project makes use of <a href="https://github.com/JamesNK/Newtonsoft.Json">N
 This project also makes use of a deprecated & modified (asynchronous) version of <a href="https://github.com/vrchatapi/vrchatapi-csharp">VRChatApiSharp</a>, which is included as a binary within the Dependencies folder.
 
 ## Disclaimer
-As is stands, this application exceeds the recommended external VRChat API access limit of 60 seconds per call.
+As is stands, this application exceeds the recommended external VRChat API access limit of 60 seconds between calls.
 Therefore, the account that you utilize this application with is at risk of being banned for API misuse.
-**I am not responsible for any resultant bans or other consequences that come along with the usage of this project. It is purely meant as a proof-of-concept, not an optimized, complete, and compliant project for everyday users.**
+**I am not responsible for any resultant bans or other consequences that come along with the usage of this project. It is purely meant as a proof-of-concept, not an optimized, complete, or compliant project for everyday users.**
 
 Additionally, this is **not** a utility for avatar ripping.
 **This application contains no method for circumventing VRChat's asset protection, nor will it ever.**
